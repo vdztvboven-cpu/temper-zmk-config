@@ -169,7 +169,7 @@ layers:
     - {t: ▽, type: trans}
   cmd:
   - - ⌘Q
-    - Gui+R
+    - ⌘W
     - F
     - Gui+P
     - B
@@ -189,7 +189,7 @@ layers:
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
   - - ⌘Z
-    - ⌘X
+    - Ctl+Sft+R
     - ⌘C
     - D
     - ⌘V
