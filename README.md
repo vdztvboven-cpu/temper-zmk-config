@@ -7,4 +7,4 @@ Some notes about this config:
 - Default layer is Colemak DHm, but there's also a QWERTY layer that can be toggled on
 - Navigation layer has vim-like arrow keys
 
-![Temper Keymap](keymap_img/temper.svg)
+![Temper Keymap](keymap_img/temper.svg?raw=true)
