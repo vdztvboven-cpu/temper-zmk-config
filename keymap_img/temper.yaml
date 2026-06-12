@@ -45,7 +45,7 @@ layers:
     - D
     - F
     - {t: ▽, type: trans}
-    - {t: ▽, type: trans}
+    - B
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
