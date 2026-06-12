@@ -169,7 +169,7 @@ layers:
     - {t: ▽, type: trans}
   cmd:
   - - ⌘Q
-    - ⌘W
+    - Gui+R
     - F
     - Gui+P
     - B
