@@ -35,7 +35,7 @@ layers:
     - E
     - R
     - {t: ▽, type: trans}
-    - A
+    - {t: ▽, type: trans}
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
@@ -45,7 +45,7 @@ layers:
     - D
     - F
     - {t: ▽, type: trans}
-    - B
+    - {t: ▽, type: trans}
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
