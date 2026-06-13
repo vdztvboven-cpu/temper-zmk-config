@@ -98,7 +98,7 @@
 
         default_layer {
             bindings = <
-&kp Q  &kp W  &kp F  &kp P  &kp B  &kp J  &kp L  &kp U  &kp Y  &kp APOS  &kp A  &kp R  &kp S  &kp T  &kp G  &kp M  &kp N  &kp E  &kp I  &kp O  &kp Z  &kp X  &kp C  &kp D  &kp V  &kp K  &kp H  &comma_semi  &dot_colon  &qmrk_excl  &mo CMD  &mo NUM  &smart_shft  &kp SPACE  &mo NAV  &to DEFAULT
+&kp Q  &kp W  &kp F  &kp P  &kp G  &kp J  &kp L  &kp U  &kp Y  &kp APOS  &kp A  &kp R  &kp S  &kp T  &kp D  &kp H  &kp N  &kp E  &kp I  &kp O  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp K  &kp M  &comma_semi  &dot_colon  &qmrk_excl  &mo CMD  &mo NUM  &smart_shft  &kp SPACE  &mo NAV  &to DEFAULT
             >;
         };
 
@@ -128,7 +128,7 @@
 
         cmd_layer {
             bindings = <
-&kp LG(Q)  &kp LG(W)  &kp F  &kp LG(P)  &kp B  &trans  &trans  &trans  &trans  &trans  &kp LSHFT  &kp LCTRL  &kp LALT  &kp LGUI  &kp LG(G)  &trans  &trans  &trans  &trans  &trans  &kp LG(Z)  &kp LC(LS(R))  &kp LG(C)  &kp D  &kp LG(V)  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&kp LG(Q)  &kp LG(W)  &kp F  &kp LG(P)  &kp B  &trans  &trans  &trans  &trans  &trans  &kp LSHFT  &kp LCTRL  &kp LALT  &kp LGUI  &kp LG(G)  &trans  &trans  &trans  &trans  &trans  &kp LG(Z)  &kp LG(X)  &kp LG(C)  &kp D  &kp LG(V)  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
     };
