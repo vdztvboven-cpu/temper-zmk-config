@@ -5,20 +5,20 @@ layers:
     - W
     - F
     - P
-    - B
+    - G
     - J
     - L
     - U
     - Y
     - {t: '''', s: '"'}
-  - [A, R, S, T, G, M, N, E, I, O]
+  - [A, R, S, T, D, H, N, E, I, O]
   - - Z
     - X
     - C
-    - D
     - V
+    - B
     - K
-    - H
+    - M
     - {t: ',', s: ;}
     - {t: ., s: ':'}
     - {t: '?', s: '!'}
@@ -189,7 +189,7 @@ layers:
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
   - - ⌘Z
-    - Ctl+Sft+R
+    - ⌘X
     - ⌘C
     - D
     - ⌘V
