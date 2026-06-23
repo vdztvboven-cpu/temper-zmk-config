@@ -155,7 +155,7 @@ layers:
     - PREV
     - PP
     - NEXT
-    - OUT BLE
+    - BT CLR ALL
     - {t: ▽, type: trans}
     - F1
     - F2
