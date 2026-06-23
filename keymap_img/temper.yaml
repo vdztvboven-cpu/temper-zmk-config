@@ -1,16 +1,7 @@
 layout: {zmk_keyboard: temper}
 layers:
   default:
-  - - Q
-    - W
-    - F
-    - P
-    - G
-    - J
-    - L
-    - U
-    - Y
-    - {t: '''', s: '"'}
+  - [BT CLR ALL, W, F, P, G, J, L, U, Y, BT CLR ALL]
   - [A, R, S, T, D, H, N, E, I, O]
   - - Z
     - X
