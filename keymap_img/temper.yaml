@@ -27,7 +27,7 @@ layers:
     - {t: ⇧, s: ⇪}
     - SPACE
     - nav
-    - BSPC
+    - B
   game:
   - - ↹
     - Q
