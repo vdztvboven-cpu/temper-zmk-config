@@ -22,12 +22,7 @@ layers:
     - {t: ',', s: ;}
     - {t: ., s: ':'}
     - {t: '?', s: '!'}
-  - - cmd
-    - num
-    - {t: ⇧, s: ⇪}
-    - SPACE
-    - nav
-    - B
+  - [cmd, num, SPACE, BSPC, nav, LEFT SHIFT]
   game:
   - - ↹
     - Q
