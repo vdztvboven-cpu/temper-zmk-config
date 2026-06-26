@@ -39,7 +39,7 @@ draw_config:
 
     /* color accent for held keys */
     rect.held, rect.combo.held {
-        fill: #fdd;
+        fill: #000;
     }
 
     /* color accent for ghost (optional) keys */
