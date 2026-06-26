@@ -98,7 +98,7 @@
 
         default_layer {
             bindings = <
-&kp Q  &kp W  &kp F  &kp P  &kp G  &kp J  &kp L  &kp U  &kp Y  &kp APOS  &kp A  &kp R  &kp S  &kp T  &kp D  &kp H  &kp N  &kp E  &kp I  &kp O  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp K  &kp M  &comma_semi  &dot_colon  &qmrk_excl  &mo CMD  &mo NUM  &smart_shft  &kp SPACE  &mo NAV  &kp BSPC
+&kp Q  &kp W  &kp F  &kp P  &kp G  &kp J  &kp L  &kp U  &kp Y  &kp APOS  &kp A  &kp R  &kp S  &kp T  &kp D  &kp H  &kp N  &kp E  &kp I  &kp O  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp K  &kp M  &comma_semi  &dot_colon  &qmrk_excl  &mo CMD  &kp SPACE  &mo 2  &mo 3  &kp BSPC  &super_bspc
             >;
         };
 
@@ -116,7 +116,7 @@
 
         nav_layer {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &kp DEL  &kp HOME  &kp END  &kp TAB  &kp BSPC  &sk LSHFT  &sk LCTRL  &sk LALT  &sk LGUI  &trans  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &gresc  &trans  &trans  &trans  &trans  &trans  &trans  &kp RET  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &kp DEL  &kp HOME  &kp END  &kp TAB  &kp BSPC  &sk LSHFT  &sk LCTRL  &sk LALT  &sk LGUI  &trans  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &gresc  &trans  &trans  &kp LC(C)  &kp LC(V)  &trans  &trans  &kp RET  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
