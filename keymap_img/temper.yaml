@@ -23,11 +23,11 @@ layers:
     - {t: ., s: ':'}
     - {t: '?', s: '!'}
   - - cmd
-    - num
-    - {t: ⇧, s: ⇪}
     - SPACE
+    - num
     - nav
     - BSPC
+    - {t: BACKSPACE, s: Alt+BACKSPACE}
   game:
   - - ↹
     - Q
@@ -88,8 +88,8 @@ layers:
     - '3'
     - {t: '=', s: +}
   - - {t: ▽, type: trans}
-    - {type: held}
     - {t: ▽, type: trans}
+    - {type: held}
     - '0'
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
@@ -116,8 +116,8 @@ layers:
     - {t: ESC, s: '`'}
   - - {t: ▽, type: trans}
     - {t: ▽, type: trans}
-    - {t: ▽, type: trans}
-    - {t: ▽, type: trans}
+    - Ctl+C
+    - Ctl+V
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
     - RET
@@ -127,8 +127,8 @@ layers:
   - - {t: ▽, type: trans}
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
-    - {t: ▽, type: trans}
     - {type: held}
+    - {t: ▽, type: trans}
     - {t: ▽, type: trans}
   fun:
   - - {t: game, h: toggle}
@@ -162,10 +162,10 @@ layers:
     - F3
     - F10
   - - BT CLR ALL
-    - {type: held}
-    - {t: ▽, type: trans}
     - {t: ▽, type: trans}
     - {type: held}
+    - {type: held}
+    - {t: ▽, type: trans}
     - {t: ▽, type: trans}
   cmd:
   - - ⌘Q
