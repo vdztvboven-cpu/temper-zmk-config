@@ -25,9 +25,9 @@ layers:
   - - cmd
     - SPACE
     - num
-    - nav
+    - {t: ⇧, s: ⇪}
     - BSPC
-    - {t: BACKSPACE, s: Alt+BACKSPACE}
+    - nav
   game:
   - - ↹
     - Q
@@ -127,9 +127,9 @@ layers:
   - - {t: ▽, type: trans}
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
     - {type: held}
-    - {t: ▽, type: trans}
-    - {t: ▽, type: trans}
   fun:
   - - {t: game, h: toggle}
     - MUTE
@@ -164,9 +164,9 @@ layers:
   - - BT CLR ALL
     - {t: ▽, type: trans}
     - {type: held}
+    - {t: ▽, type: trans}
+    - {t: ▽, type: trans}
     - {type: held}
-    - {t: ▽, type: trans}
-    - {t: ▽, type: trans}
   cmd:
   - - ⌘Q
     - ⌘W
